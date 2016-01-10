@@ -1,4 +1,4 @@
-# CIS419-Machine-Learning---Assignment-1
+# ML-Implementation-1
 Decision Trees (+ k-fold Cross Validation) and Linear Regression (+ Gradient Descent)
 
 - please read “hw1_instructions” for the assignment instructions
